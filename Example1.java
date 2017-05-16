@@ -32,8 +32,9 @@ public class Example1 {
 		// no need of specifying parameter 
 		// it will automatically infer
 //		System.out.println("Shortest way...!");
-//		list.forEach(System.out::println);
-		
+		list.forEach(System.out::println);
+
+		System.out.println("Content changed for git");
 		
 		  
 	}
